@@ -11,6 +11,7 @@ namespace MonAppli2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Class1 objet = new Class1(1, "Dupont");
             Console.ReadLine();
         }
     }
