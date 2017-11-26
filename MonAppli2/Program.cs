@@ -12,6 +12,7 @@ namespace MonAppli2
         {
             Console.WriteLine("Hello world");
             Class1 objet = new Class1(1, "Dupont");
+            // ajout commentaire par Autre util
             Console.ReadLine();
         }
     }
